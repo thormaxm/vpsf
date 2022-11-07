@@ -1,8 +1,8 @@
 {
-    "name": "ᎯℕUℛᎯᎶ",
-    "description": "Clone Of ᎯℕUℛᎯᎶ & More Features Added",
+    "name": "ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ",
+    "description": "Clone Of ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ & More Features Added",
     "stack": "container",
-    "logo": "https://telegra.ph/file/9ee1253e36b37a1665ce2.jpg",
+    "logo": "https://telegra.ph/file/ec9211b2fb3203e1421d5.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
-    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "website": "https://github.com/DRAGON-PRO/vpsf",
+    "repository": "https://github.com/DRAGON-PRO/vpsf",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
