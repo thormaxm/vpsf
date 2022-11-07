@@ -29,37 +29,46 @@ class script(object):
 ║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- ᎯℕUℛᎯᎶ is a not open source project. 
-- Source - https://github.com/AM-ROBOTS/AM-ROBOTS
+    SOURCE_TXT = """𝐇𝐄𝐘 𝐁𝐑𝐔𝐇
+✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
+╔════❰ ᦔ𝘳ꪖᧁꪮꪀ ❱═❍⊱❁۪۪
+║╭━━━━━━━━━━━━━━━➣
+║┣🎯✨ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ❣
+║┣⚡️🍬ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟꜱ 🦋✨
+║┣
+║┣<a href=https://t.me/TAMIL_FLIMS_HD>🔰✥ ▷ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ◁</a>
+║┣<a href=https://t.me/+lp5mOR6wSMIyMzY1>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 1 ◁</a>
+║┣<a href=https://t.me/+VyuE_q8JC9UzZTll>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 2 ◁</a>
+║┣<a href=https://t.me/+TJzbQrEhZBg3ZGRl>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 3 ◁</a>
+║┣
+║┣🦋 ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ :<a href=tg://settings>ᴛʜɪs ᴘᴇʀsᴏɴ 🙌</a>
+║╰━━━━━━━━━━━━━━━➣
+╚══════════════════❍⊱❁"""
+    MANUELFILTER_TXT = """ʜᴇʟᴩ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 
-<b>DEVS:</b>
-- <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+• ꜰɪʟᴛᴇʀ ɪꜱ ᴛʜᴇ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᎯℕUℛᎯᎶ will respond whenever a keyword is found the message
+<b>ɴᴏᴛᴇ:</b>
+1. ꜰʟɪᴍꜱ ꜱʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
+2. ᴏɴʟʏ ᴀᴅᴍɪɴꜱ ᴄᴀɴ ᴀᴅᴅ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ.
+3. ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ ʜᴀᴠᴇ ᴀ ʟɪᴍɪᴛ ᴏꜰ 64 ᴄʜᴀʀᴀᴄᴛᴇʀꜱ.
 
-<b>NOTE:</b>
-1. ᎯℕUℛᎯᎶ should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
-
-<b>Commands and Usage:</b>
+<b>ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇ:</b>
 • /filter - <code>add a filter in chat</code>
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- ᎯℕUℛᎯᎶ Supports both url and alert inline buttons.
+- ᠻꪶ𝓲ꪑ𝘴 Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᎯℕUℛᎯᎶ supports buttons with any telegram media type.
+2. ᠻꪶ𝓲ꪑ𝘴 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Am_RoBots)</code>
+<code>[Button Text](buttonurl:https://t.me/TAMIL_FLIMS_HD)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -86,7 +95,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of ᎯℕUℛᎯᎶ
+these are the extra features of ᠻꪶ𝓲ꪑ𝘴
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
