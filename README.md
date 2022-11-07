@@ -1,13 +1,13 @@
-## • What's New ?
+## • ᴡʜᴀᴛ'ꜱ ɴᴇᴡ?
 
-- ⟴ URL Shortener Added
-- ⟴ Self Delete Added (Auto delete)
-- ⟴ Filter On Off Option Added
-- ⟴ Custom Welcome Message
-- ⟴ URL Shortener Added
-- ⟴ Custom Download Name And URL
-- ⟴ Custom Texts (About, Help, Stats,More..)
-- ⟴ Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
+- ⟴ ᴜʀʟ ꜱʜᴏʀᴛᴇɴᴇʀ ᴀᴅᴅᴇᴅ
+- ⟴ ꜱᴇʟꜰ ᴅᴇʟᴇᴛᴇ ᴀᴅᴅᴇᴅ (ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ)
+- ⟴ ꜰɪʟᴛᴇʀ ᴏɴ ᴏꜰꜰ ᴏᴘᴛɪᴏɴ ᴀᴅᴅᴇᴅ
+- ⟴ ᴄᴜꜱᴛᴏᴍ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇ
+- ⟴ ᴜʀʟ ꜱʜᴏʀᴛᴇɴᴇʀ ᴀᴅᴅᴇᴅ
+- ⟴ ᴄᴜꜱᴛᴏᴍ ᴅᴏᴡɴʟᴏᴀᴅ ɴᴀᴍᴇ ᴀɴᴅ ᴜʀʟ
+- ⟴ ᴄᴜꜱᴛᴏᴍ ᴛᴇxᴛꜱ (ᴀʙᴏᴜᴛ, ʜᴇʟᴘ, ꜱᴛᴀᴛꜱ,ᴍᴏʀᴇ..)
+- ⟴ ᴄᴜꜱᴛᴏᴍ ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ (ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ, ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴘ, ꜰᴏʀᴄᴇ ꜱᴜʙ, ᴍᴏʀᴇ...)
 
 
 
@@ -133,12 +133,12 @@ link - to create link for one post
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/MOVIES_ZILAA)
 
 ## Credits 
-* [![ᎯℕUℛᎯᎶ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/sources_cods)
+* [![ʜᴀʀɪ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/sources_cods)
 
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To [ᎯℕUℛᎯᎶ](https://telegram.dog/gurubhai11) for Their Awesome [Unlimited Filter Bot](https://t.me/BetterFilters_Ro_Bot) And [AutoFilterBoT](https://github.com/am-robots/Anurag)
+ - Thanks To [ʜᴀʀɪ](https://telegram.dog/gurubhai11) for Their Awesome [Unlimited Filter Bot](https://t.me/BetterFilters_Ro_Bot) And [AutoFilterBoT](https://github.com/am-robots/Anurag)
  - Thanks To All Everyone In This Journey
 
 ### Note
