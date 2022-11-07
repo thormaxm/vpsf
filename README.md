@@ -13,10 +13,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/AM-ROBOTS/AdvAnurag/blob/main/assets/logo.jpg" alt="Anurag Logo">
+  <img src="https://telegra.ph/file/ec9211b2fb3203e1421d5.jpg" alt="ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ">
 </p>
 <h1 align="center">
-  <b>ᎯℕUℛᎯᎶ</b>
+  <b>ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ</b>
 </h1>
 
 
@@ -81,7 +81,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/harigih/AutoAnura">
+<a href="https://heroku.com/deploy?template=https://github.com/DRAGON-PRO/vpsf">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
