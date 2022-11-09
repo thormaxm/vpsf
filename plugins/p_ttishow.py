@@ -53,9 +53,9 @@ async def save_group(bot, message):
                         await (temp.MELCOW['welcome']).delete()
                     except:
                         pass
-                temp.MELCOW['welcome'] = await message.reply_video(
-                video="https://telegra.ph/file/30509da828fa0b9e3486d.jpg",                                               
-                                                 caption=f'<b>𝐇𝐄𝐘, {u.mention} 👋🏻\n✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵\n╔════❰ ᦔ𝘳ꪖᧁꪮꪀ ❱═❍⊱❁۪۪\n║╭━━━━━━━━━━━━━━━➣\n║┣\n║┣<a href=https://t.me/TAMIL_FLIMS_HD>🔰✥ ▷ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ◁</a>\n║┣<a href=https://t.me/+lp5mOR6wSMIyMzY1>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 1 ◁</a>\n<a href=https://t.me/+VyuE_q8JC9UzZTll>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 2 ◁</a>\n<a href=https://t.me/+TJzbQrEhZBg3ZGRl>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 3 ◁</a>\n║┣\n║┣ᴍᴏᴠɪᴇ ʀᴇqᴜᴇꜱᴛꜱ ꜰᴏʀᴍᴀᴛꜱ\n║┣ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴀɴᴅ yᴇᴀʀ\n║┣ᴇx: ɢᴜʟᴜ ɢᴜʟᴜ 2022\n║╰━━━━━━━━━━━━━━━➣\n╚══════════════════❍⊱❁',
+                temp.MELCOW['welcome'] = await message.reply_photo(
+                photo="https://telegra.ph/file/30509da828fa0b9e3486d.jpg",                                               
+                                                 caption=f'<b>𝐇𝐄𝐘, {u.mention} 👋🏻\n✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵\n╔════❰ ᦔ𝘳ꪖᧁꪮꪀ ❱═❍⊱❁۪۪\n║╭━━━━━━━━━━━━━━━➣\n║┣\n║┣<a href=https://t.me/TAMIL_FLIMS_HD>🔰✥ ▷ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ◁</a>\n║┣<a href=https://t.me/+lp5mOR6wSMIyMzY1>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 1 ◁</a>\n║┣<a href=https://t.me/+VyuE_q8JC9UzZTll>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 2 ◁</a>\n║┣<a href=https://t.me/+TJzbQrEhZBg3ZGRl>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 3 ◁</a>\n║┣\n║┣ᴍᴏᴠɪᴇ ʀᴇqᴜᴇꜱᴛꜱ ꜰᴏʀᴍᴀᴛꜱ\n║┣ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴀɴᴅ yᴇᴀʀ\n║┣ᴇx: ɢᴜʟᴜ ɢᴜʟᴜ 2022\n║╰━━━━━━━━━━━━━━━➣\n╚══════════════════❍⊱❁',
                                                  
                 )
 
